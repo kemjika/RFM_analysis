@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans, 
+This is just a test read me file !!!!
+Hope to be awesome soon.
